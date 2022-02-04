@@ -100,15 +100,17 @@ text-align: center;
 color: #000000;
 }
 
+.img-link {
+    text-decoration: none;
+    
+    }
+
 .container {
 text-align: center;
 margin: 18px auto 80px auto;
 }
 
-.img-link {
-text-decoration: none;
 
-}
 
 
 
